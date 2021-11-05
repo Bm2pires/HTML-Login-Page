@@ -3,3 +3,11 @@
   border-right: 0;
   border-left: 0;
 }
+.form-group img {
+  position: absolute;
+  margin-left: 4px;
+  margin-top: 6px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+}
