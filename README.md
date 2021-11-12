@@ -1,5 +1,5 @@
 # HTML Login Page
-A repository containing a login page using HTML, CSS and Bootstrap.
+A repository containing a login page created using HTML, CSS and Bootstrap.
 
 ## Technologies used
 
